@@ -26,15 +26,15 @@
 <table>
 <tr>
 <td>Username</td>
-<td><input type="text"placeholder="log in"></td>
+<td><input type="text"placeholder="Enter your username"></td>
 </tr>
 <tr>
 <td>Email</td>
-<td><input type="text"placeholder="Register"></td>
+<td><input type="text"placeholder="Enter your email"></td>
 </tr>
 <tr>
 <td>Password</td>
-<td><input type="text"placeholder="password"></td>
+<td><input type="text"placeholder="Enter your password"></td>
 </tr>
 </table>
 <section>
